@@ -1,3 +1,7 @@
+<div align="center">
+    <img src="https://i.imgur.com/QgSkQ9t.png"/>
+</div>
+
 # Notebank Scraper
 
 This scraper is being used to populate the schools/courses database for: https://github.com/talham7391/notebank-service
@@ -8,7 +12,7 @@ This scraper is being used to populate the schools/courses database for: https:/
 
 It scrapes all the courses the University of Waterloo offers and displays them in a list with each course formatted as: 
 
-`COURSE_CODE_SUBJECT COURSE_CODE_NUMBER - COURSE TITLE`
+`COURSE_CODE_SUBJECT COURSE_CODE_NUMBER - COURSE_TITLE`
 
 ### Random samples from a run
 
