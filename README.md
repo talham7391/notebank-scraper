@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://i.imgur.com/QgSkQ9t.png"/>
+    <img src="https://i.imgur.com/vQ09ZTa.png"/>
 </div>
 
 # Notebank Scraper
